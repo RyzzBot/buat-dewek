@@ -22,9 +22,9 @@ global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%
 global.email = 'Kontolodon@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'yahyaGanz' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'BOT•VIRUS' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'AzzBot•MD' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Rayzo177' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'TheRyzzBotz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'Rayzo' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
 global.owner = ['6283837166690']
@@ -32,7 +32,7 @@ global.premium = ['6285776191421']
 global.packname = 'TheRyzzBotz'
 global.ownerr = ['Rayzo177']
 global.author = 'Rayzo177'
-global.sessionName = 'seasionryzz'
+global.sessionName = 'seasionrzz'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
